@@ -1,0 +1,4 @@
+2019-05-23 13:57:37.354 WARN  [main] [com.zaxxer.hikari.util.DriverDataSource] 68 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-05-23 14:01:58.884 WARN  [main] [com.zaxxer.hikari.util.DriverDataSource] 68 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-05-23 14:09:37.691 WARN  [main] [com.zaxxer.hikari.util.DriverDataSource] 68 - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-05-23 14:10:57.714 WARN  [http-nio-8080-exec-2] [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver] 198 - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
